@@ -1,0 +1,23 @@
+{
+  "name": "jquery.bind-first",
+  "version": "0.2.3",
+  "description": "Fork of jQuery/Bind-first package",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicosstv/jquery.bind-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicosstv/jquery.bind-first/issues"
+  },
+  "homepage": "https://github.com/nicosstv/jquery.bind-first#readme"
+}
